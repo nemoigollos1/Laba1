@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.my-photo{
+    width: 300px;
+}
+
+.title{
+    margin-top: 15px;
+    margin-left: 75px;
+    margin-right: 20px;
+}
+
+.about-jiraf{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 70px;
+    padding-bottom: 70px;  
+}
+
+.headimg{
+    margin-top: 5px;  
+    width: 120px;
+}
+
+.character-title{
+    padding-left: 400px;
+}
